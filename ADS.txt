@@ -1,1 +1,3 @@
-https://cat.fr3.eu.criteo.com
+cat.fr3.eu.criteo.com
+www.googleadservices.com
+adclick.g.doubleclick.net
