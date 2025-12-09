@@ -1,8 +1,13 @@
 //------------------------------//
-THIS REPO IS FOR PI-HOLE
-EVEYONE IS WELCOME TO AD AI SLOP 
-LINKS
+// THIS REPO IS FOR PI-HOLE
+// EVERYONE IS WELCOME TO ADD AI SLOP LINKS
+// UPDATE YOUR PI-HOLE USING:
+// https://raw.githubusercontent.com/Jadde-1/PiHole-list/main/AI-SLOP-SITES.txt
+//
+//HELP THE COMMUNITY SEND DOMAINS HERE:
+//https://github.com/Jadde-1/PiHole-list/issues
 //------------------------------//
+
 
 numberanalytics.com
 24newsdaily.com
