@@ -1,0 +1,7 @@
+//------------------------------//
+THIS REPO IS FOR PI-HOLE
+EVEYONE IS WELCOME TO AD AI SLOP 
+LINKS
+//------------------------------//
+
+0.0.0.0 numberanalytics.com
