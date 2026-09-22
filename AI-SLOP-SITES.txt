@@ -6,16 +6,18 @@
 //
 //HELP THE COMMUNITY SEND DOMAINS HERE:
 //https://github.com/Jadde-1/PiHole-list/issues
+//
+// Last updated: 2026-09-22
+// Total unique domains: 101
 //------------------------------//
 
-
-numberanalytics.com
 24newsdaily.com
+4idiotz.com
 allexpertmedia.com
 ampproject.org
 artificialintelligence-news.com
-auntyacid.com
 auntyacid.co
+auntyacid.com
 autonews.cyou
 balleralert.com
 bipnews.com
@@ -51,11 +53,12 @@ healthdailynews.com
 healthnews247.com
 healthylivingnews.co
 hotnewsmart.com
+idrink.dk
 infosmashin.com
 infostorynews.com
-inspirationfeed.org
-insiderpaper.com
 insidenewsonline.com
+insiderpaper.com
+inspirationfeed.org
 intelligentnews.info
 interestingupdates.com
 latest-today-news.com
@@ -78,14 +81,16 @@ newsdailybrief.com
 newsportal247.com
 newszone.today
 newtheory.com
+numberanalytics.com
 onlinebuzzdaily.com
+plisio.net
 quickdailyupdates.com
 quicktrendalerts.com
 recipeshut.com
 sciencealert.press
+scooponews.com
 scraperblogs.com
 simplifieddailynews.com
-scooponews.com
 slopfeed.com
 smartechdaily.com
 smartnewsroom.co
@@ -95,6 +100,7 @@ talkglitz.online
 thedailyspoon.com
 thenewsdetective.com
 thetrendinfo.com
+thewindowsclub.com
 todaynewsportal.com
 todayupdates.info
 topdailytrends.net
@@ -106,7 +112,3 @@ viralupdates.co
 viralworld.info
 webstorynews.com
 yourdailytrend.info
-4idiotz.com
-plisio.net
-idrink.dk
-thewindowsclub.com
